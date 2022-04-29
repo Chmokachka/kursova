@@ -3,7 +3,7 @@ Description=My Java WebAPP
 
 [Service]
 User=root
-WorkingDirectory=/root/kursova
+WorkingDirectory=/root/kursova/MM_13
 ExecStart=/root/kursova/MM_13/start
 
 [Install]
