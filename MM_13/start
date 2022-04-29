@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WORKDIR=/kursova
+WORKDIR=/root/kursova
 
 cd $WORKDIR
 python3 -m http.server
