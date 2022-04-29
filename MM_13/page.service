@@ -1,0 +1,10 @@
+[Unit]
+Description=My Java WebAPP
+
+[Service]
+User=root
+WorkingDirectory=/kursova
+ExecStart=/kursova/start
+
+[Install]
+WantedBy=multi-user.target
