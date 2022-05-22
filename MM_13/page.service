@@ -3,8 +3,8 @@ Description=My Java WebAPP
 
 [Service]
 User=root
-WorkingDirectory=/root/kursova/MM_13
-ExecStart=/root/kursova/MM_13/start
+WorkingDirectory=/home/ubuntu/kursova/MM_13
+ExecStart=/home/ubuntu/kursova/MM_13/start
 
 [Install]
 WantedBy=multi-user.target
